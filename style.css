@@ -11,6 +11,47 @@
   max-width: 1200px;
 }
 
+.drpmenu {
+  display: none;
+}
+.drpmenu a {
+  text-decoration: none;
+  color: white;
+}
+.drpmenu .dropp {
+  display: inline-block;
+  z-index: 1;
+  color: white;
+  padding: 20px;
+  position: absolute;
+  background-color: #0F4332;
+  top: 90px;
+  width: 100%;
+}
+.drpmenu .dropp .listt {
+  font-size: 16px;
+  font-weight: 500;
+  display: block;
+}
+.drpmenu .dropp .listt ul {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 25px;
+  list-style: none;
+}
+.drpmenu .dropp .listt ul li button {
+  width: 180px;
+  padding: 18px;
+  background-color: #10C98F;
+  border: none;
+  color: white;
+}
+
+.show {
+  display: block;
+}
+
 .s1 {
   width: 100%;
   background-image: linear-gradient(rgba(16, 201, 143, 0.4), rgba(16, 201, 143, 0.4)), url(https://preview.colorlib.com/theme/easylo/assets/img/hero/h1_hero1.jpg);
@@ -25,6 +66,11 @@
   align-items: center;
   justify-content: space-between;
   padding: 27px 0;
+  color: white;
+  position: relative;
+}
+.s1 nav a {
+  text-decoration: none;
   color: white;
 }
 .s1 nav .menu {
@@ -176,19 +222,60 @@
   padding: 60px 0;
   flex-direction: column;
 }
+.s2 .s2-in button {
+  width: 20%;
+  background-color: #0C8760;
+  border-radius: 8px;
+  margin-left: 40px;
+  color: white;
+  height: 29px;
+}
+.s2 .s2-in button a {
+  text-decoration: none;
+  color: white;
+}
 .s2 .s2-in .boxes {
   width: 100%;
   display: flex;
   justify-content: space-between;
+  align-items: start;
   padding: 50px 0;
   flex-wrap: wrap;
+  row-gap: 40px;
 }
 .s2 .s2-in .boxes .box1 {
   width: 31%;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   gap: 20px;
+  position: relative;
   cursor: pointer;
+}
+.s2 .s2-in .boxes .box1 .icon {
+  width: 50%;
+}
+.s2 .s2-in .boxes .box1 .icon img {
+  width: 30%;
+}
+.s2 .s2-in .boxes .box1 .heart {
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  font-size: 17px;
+  color: red;
+}
+.s2 .s2-in .boxes .box1 button {
+  width: 70%;
+  background-color: #0C8760;
+  border-radius: 8px;
+  margin-left: 40px;
+  color: white;
+  height: 29px;
+}
+.s2 .s2-in .boxes .box1 button a {
+  text-decoration: none;
+  color: white;
 }
 .s2 .s2-in .boxes .box1:hover h1 {
   color: #10C98F;

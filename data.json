@@ -1,0 +1,34 @@
+{
+  "solutions": [
+    {
+      "id": 1,
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1Ny4yMTIiIGhlaWdodD0iNTEiIHZpZXdCb3g9IjAgMCA1Ny4yMTIgNTEiPg0KICA8ZyBpZD0ic2VydmljZXMxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwKSI+DQogICAgPGcgaWQ9Ikdyb3VwXzE2IiBkYXRhLW5hbWU9Ikdyb3VwIDE2IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDApIj4NCiAgICAgIDxnIGlkPSJHcm91cF8xNSIgZGF0YS1uYW1lPSJHcm91cCAxNSI+DQogICAgICAgIDxwYXRoIGlkPSJQYXRoXzE4IiBkYXRhLW5hbWU9IlBhdGggMTgiIGQ9Ik01Ni42LDQ3Ljk0MSwyOS40ODQsMjguMDg1YTEuNDg2LDEuNDg2LDAsMCwwLTEuNzU2LDBMLjYwOCw0Ny45NDFhMS40ODcsMS40ODcsMCwxLDAsMS43NTYsMi40TDI4LjYwNiwzMS4xMjYsNTQuODQ3LDUwLjM0YTEuNDg3LDEuNDg3LDAsMCwwLDEuNzU2LTIuNFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDAxIC0yNy43OTgpIiBmaWxsPSIjMGM4NzYwIi8+DQogICAgICA8L2c+DQogICAgPC9nPg0KICAgIDxnIGlkPSJHcm91cF8xOCIgZGF0YS1uYW1lPSJHcm91cCAxOCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNi4zMDggMjIuODc5KSI+DQogICAgICA8ZyBpZD0iR3JvdXBfMTciIGRhdGEtbmFtZT0iR3JvdXAgMTciPg0KICAgICAgICA8cGF0aCBpZD0iUGF0aF8xOSIgZGF0YS1uYW1lPSJQYXRoIDE5IiBkPSJNOTkuNTYyLDIzMi41NDNhMS40ODcsMS40ODcsMCwwLDAtMS40ODcsMS40ODd2MjMuNjYxSDg2LjE4M1YyNDQuNzc1YTcuNDMzLDcuNDMzLDAsMCwwLTE0Ljg2NiwwdjEyLjkxNkg1OS40MjVWMjM0LjAzYTEuNDg3LDEuNDg3LDAsMCwwLTIuOTczLDB2MjUuMTQ4YTEuNDg3LDEuNDg3LDAsMCwwLDEuNDg3LDEuNDg3SDcyLjhhMS40ODYsMS40ODYsMCwwLDAsMS40ODEtMS4zNzEsMS4xMjEsMS4xMjEsMCwwLDAsLjAwNi0uMTE2di0xNC40YTQuNDYsNC40NiwwLDEsMSw4LjkyLDB2MTQuNGExLjA5LDEuMDksMCwwLDAsLjAwNi4xMTQsMS40ODYsMS40ODYsMCwwLDAsMS40ODEsMS4zNzJIOTkuNTYyYTEuNDg3LDEuNDg3LDAsMCwwLDEuNDg3LTEuNDg3VjIzNC4wM0ExLjQ4NywxLjQ4NywwLDAsMCw5OS41NjIsMjMyLjU0M1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC01Ni40NTIgLTIzMi41NDMpIiBmaWxsPSIjMGM4NzYwIi8+DQogICAgICA8L2c+DQogICAgPC9nPg0KICA8L2c+DQo8L3N2Zz4NCg==",
+      "name": "Home Loan",
+      "description": "What are my options and the cost to exercise?",
+      "bottomtext": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    },
+    {
+      "id": 2,
+      "image": "https://preview.colorlib.com/theme/easylo/assets/img/icon/services2.svg",
+      "name": "Car Loan",
+      "description": "Should I exercise now or later? How can I afford it?",
+      "bottomtext": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    },
+    {
+      "id": 3,
+      "image": "https://preview.colorlib.com/theme/easylo/assets/img/icon/services3.svg",
+      "name": "Business Loan",
+      "description": "I own my shares - can I get liquidity now without selling?",
+      "bottomtext": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    },
+    {
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1Ny4yMTIiIGhlaWdodD0iNTEiIHZpZXdCb3g9IjAgMCA1Ny4yMTIgNTEiPg0KICA8ZyBpZD0ic2VydmljZXMxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwKSI+DQogICAgPGcgaWQ9Ikdyb3VwXzE2IiBkYXRhLW5hbWU9Ikdyb3VwIDE2IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDApIj4NCiAgICAgIDxnIGlkPSJHcm91cF8xNSIgZGF0YS1uYW1lPSJHcm91cCAxNSI+DQogICAgICAgIDxwYXRoIGlkPSJQYXRoXzE4IiBkYXRhLW5hbWU9IlBhdGggMTgiIGQ9Ik01Ni42LDQ3Ljk0MSwyOS40ODQsMjguMDg1YTEuNDg2LDEuNDg2LDAsMCwwLTEuNzU2LDBMLjYwOCw0Ny45NDFhMS40ODcsMS40ODcsMCwxLDAsMS43NTYsMi40TDI4LjYwNiwzMS4xMjYsNTQuODQ3LDUwLjM0YTEuNDg3LDEuNDg3LDAsMCwwLDEuNzU2LTIuNFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDAxIC0yNy43OTgpIiBmaWxsPSIjMGM4NzYwIi8+DQogICAgICA8L2c+DQogICAgPC9nPg0KICAgIDxnIGlkPSJHcm91cF8xOCIgZGF0YS1uYW1lPSJHcm91cCAxOCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNi4zMDggMjIuODc5KSI+DQogICAgICA8ZyBpZD0iR3JvdXBfMTciIGRhdGEtbmFtZT0iR3JvdXAgMTciPg0KICAgICAgICA8cGF0aCBpZD0iUGF0aF8xOSIgZGF0YS1uYW1lPSJQYXRoIDE5IiBkPSJNOTkuNTYyLDIzMi41NDNhMS40ODcsMS40ODcsMCwwLDAtMS40ODcsMS40ODd2MjMuNjYxSDg2LjE4M1YyNDQuNzc1YTcuNDMzLDcuNDMzLDAsMCwwLTE0Ljg2NiwwdjEyLjkxNkg1OS40MjVWMjM0LjAzYTEuNDg3LDEuNDg3LDAsMCwwLTIuOTczLDB2MjUuMTQ4YTEuNDg3LDEuNDg3LDAsMCwwLDEuNDg3LDEuNDg3SDcyLjhhMS40ODYsMS40ODYsMCwwLDAsMS40ODEtMS4zNzEsMS4xMjEsMS4xMjEsMCwwLDAsLjAwNi0uMTE2di0xNC40YTQuNDYsNC40NiwwLDEsMSw4LjkyLDB2MTQuNGExLjA5LDEuMDksMCwwLDAsLjAwNi4xMTQsMS40ODYsMS40ODYsMCwwLDAsMS40ODEsMS4zNzJIOTkuNTYyYTEuNDg3LDEuNDg3LDAsMCwwLDEuNDg3LTEuNDg3VjIzNC4wM0ExLjQ4NywxLjQ4NywwLDAsMCw5OS41NjIsMjMyLjU0M1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC01Ni40NTIgLTIzMi41NDMpIiBmaWxsPSIjMGM4NzYwIi8+DQogICAgICA8L2c+DQogICAgPC9nPg0KICA8L2c+DQo8L3N2Zz4NCg==",
+        "name": "sad",
+        "description": "asd",
+        "bottomtext": "asd",
+        "id": 4
+      }
+  
+  ],
+  "favorites": []
+}
